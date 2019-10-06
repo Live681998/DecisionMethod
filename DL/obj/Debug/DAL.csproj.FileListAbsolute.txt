@@ -1,0 +1,9 @@
+C:\Files\Development\VisualStudio\DecisionMethod\DL\bin\Debug\DL.dll
+C:\Files\Development\VisualStudio\DecisionMethod\DL\bin\Debug\DL.pdb
+C:\Files\Development\VisualStudio\DecisionMethod\DL\bin\Debug\Entities.dll
+C:\Files\Development\VisualStudio\DecisionMethod\DL\bin\Debug\Entities.pdb
+C:\Files\Development\VisualStudio\DecisionMethod\DL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Files\Development\VisualStudio\DecisionMethod\DL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Files\Development\VisualStudio\DecisionMethod\DL\obj\Debug\DAL.csproj.CopyComplete
+C:\Files\Development\VisualStudio\DecisionMethod\DL\obj\Debug\DL.dll
+C:\Files\Development\VisualStudio\DecisionMethod\DL\obj\Debug\DL.pdb
